@@ -1,6 +1,7 @@
 import React from "react";
 import * as THREE from "three";
 import _ from "lodash";
+import { Button } from '@material-ui/core';
 import Stats from '../../../utils/jsm/libs/stats.module';
 import { OrbitControls } from '../../../utils/jsm/controls/OrbitControls.js';
 
